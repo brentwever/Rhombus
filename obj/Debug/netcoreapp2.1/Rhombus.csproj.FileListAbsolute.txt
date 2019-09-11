@@ -1,0 +1,11 @@
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\bin\Debug\netcoreapp2.1\Rhombus.deps.json
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\bin\Debug\netcoreapp2.1\Rhombus.runtimeconfig.json
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\bin\Debug\netcoreapp2.1\Rhombus.runtimeconfig.dev.json
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\bin\Debug\netcoreapp2.1\Rhombus.dll
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\bin\Debug\netcoreapp2.1\Rhombus.pdb
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\obj\Debug\netcoreapp2.1\Rhombus.csprojAssemblyReference.cache
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\obj\Debug\netcoreapp2.1\Rhombus.csproj.CoreCompileInputs.cache
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\obj\Debug\netcoreapp2.1\Rhombus.AssemblyInfoInputs.cache
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\obj\Debug\netcoreapp2.1\Rhombus.AssemblyInfo.cs
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\obj\Debug\netcoreapp2.1\Rhombus.dll
+D:\BRENT\Programmeer Projects\Rhombus\Rhombus\obj\Debug\netcoreapp2.1\Rhombus.pdb
